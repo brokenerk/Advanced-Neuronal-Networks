@@ -1,0 +1,64 @@
+{
+	"GorditaChicharron" : [
+		{
+			"Ingrediente" : "Masa de maíz",
+			"Cantidad" : "200/9",
+			"Calorias" : 69
+		},
+		{
+			"Ingrediente" : "Harina de trigo",
+			"Cantidad" : "25",
+			"Calorias" : 71
+		},
+		{
+			"Ingrediente" : "Levadura en polvo",
+			"Cantidad" : "10",
+			"Calorias" : 5
+		},
+		{
+			"Ingrediente" : "Sal",
+			"Cantidad" : "1",
+			"Calorias" : 0
+		},
+		{
+			"Ingrediente" : "Agua",
+			"Cantidad" : "25/8",
+			"Calorias" : 2
+		},
+		{
+			"Ingrediente" : "Aceite",
+			"Cantidad" : "200",
+			"Calorias" : 44
+		},
+		{
+			"Ingrediente" : "Chicharrón",
+			"Cantidad" : "25",
+			"Calorias" : 72
+		},
+		{
+			"Ingrediente" : "Cebolla blanca rebanada",
+			"Cantidad" : "2",
+			"Calorias" : 23
+		},
+		{
+			"Ingrediente" : "Cilantro picado crudo",
+			"Cantidad" : "8/21",
+			"Calorias" : 24
+		},
+		{
+			"Ingrediente" : "Lechuga",
+			"Cantidad" : "2/3",
+			"Calorias" : 23
+		},
+		{
+			"Ingrediente" : "Queso fresco",
+			"Cantidad" : "75/2",
+			"Calorias" : 58
+		},
+		{
+			"Ingrediente" : "Salsa de chile",
+			"Cantidad" : "2/23",
+			"Calorias" : 28
+		},
+	]
+}
