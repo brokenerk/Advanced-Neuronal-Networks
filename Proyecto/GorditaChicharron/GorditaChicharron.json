@@ -2,63 +2,66 @@
 	"GorditaChicharron" : [
 		{
 			"Ingrediente" : "Masa de maíz",
-			"Cantidad" : "200/9",
+			"Cantidad" : "50/9",
 			"Calorias" : 69
 		},
 		{
 			"Ingrediente" : "Harina de trigo",
-			"Cantidad" : "25",
+			"Cantidad" : "25/4",
 			"Calorias" : 71
 		},
 		{
 			"Ingrediente" : "Levadura en polvo",
-			"Cantidad" : "10",
+			"Cantidad" : "5/4",
 			"Calorias" : 5
 		},
 		{
 			"Ingrediente" : "Sal",
-			"Cantidad" : "1",
+			"Cantidad" : "1/4",
 			"Calorias" : 0
 		},
 		{
 			"Ingrediente" : "Agua",
-			"Cantidad" : "25/8",
+			"Cantidad" : "25/32",
 			"Calorias" : 2
 		},
 		{
 			"Ingrediente" : "Aceite",
-			"Cantidad" : "200",
+			"Cantidad" : "50",
 			"Calorias" : 44
 		},
 		{
-			"Ingrediente" : "Chicharrón",
-			"Cantidad" : "25",
+			"Ingrediente" : "Chicharrón de cerdo",
+			"Cantidad" : "25/4",
 			"Calorias" : 72
 		},
 		{
 			"Ingrediente" : "Cebolla blanca rebanada",
-			"Cantidad" : "2",
+			"Cantidad" : "1/2",
 			"Calorias" : 23
 		},
 		{
 			"Ingrediente" : "Cilantro picado crudo",
-			"Cantidad" : "8/21",
+			"Cantidad" : "1/21",
 			"Calorias" : 24
 		},
 		{
 			"Ingrediente" : "Lechuga",
-			"Cantidad" : "2/3",
+			"Cantidad" : "1/6",
 			"Calorias" : 23
 		},
 		{
 			"Ingrediente" : "Queso fresco",
-			"Cantidad" : "75/2",
+			"Cantidad" : "15/16",
 			"Calorias" : 58
 		},
 		{
 			"Ingrediente" : "Salsa de chile",
-			"Cantidad" : "2/23",
+			"Cantidad" : "1/46",
 			"Calorias" : 28
 		},
+		{
+			"Procedencia" : "Ciudad de México"
+		}
 	]
 }
