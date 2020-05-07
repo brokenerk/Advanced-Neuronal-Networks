@@ -1,0 +1,52 @@
+{
+	"PicoGallo" : [
+		{
+			"Ingrediente" : "Cebolla blanca rebanada",
+			"Cantidad" : "2",
+			"Calorias" : 23
+		},
+		{
+			"Ingrediente" : "Jitomate guaje o saladet",
+			"Cantidad" : "1",
+			"Calorias" : 22
+		},
+		{
+			"Ingrediente" : "Pimiento rojo crudo chico",
+			"Cantidad" : "1/2",
+			"Calorias" : 17
+		},
+		{
+			"Ingrediente" : "Pimiento verde crudo chico",
+			"Cantidad" : "1/2",
+			"Calorias" : 17
+		},
+		{
+			"Ingrediente" : "Cilantro picado crudo",
+			"Cantidad" : "2/21",
+			"Calorias" : 24
+		},
+		{
+			"Ingrediente" : "Chile jalapeño",
+			"Cantidad" : "1/3",
+			"Calorias" : 23
+		},
+		{
+			"Ingrediente" : "Jugo de limón",
+			"Cantidad" : "3/4",
+			"Calorias" : 45
+		},
+		{
+			"Ingrediente" : "Sal",
+			"Cantidad" : "1",
+			"Calorias" : 0
+		},
+		{
+			"Ingrediente" : "Ajo en polvo",
+			"Cantidad" : "10",
+			"Calorias" : 5
+		},
+		{
+			"Procedencia" : "México"
+		}
+	]
+}
