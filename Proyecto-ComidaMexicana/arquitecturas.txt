@@ -1,0 +1,53 @@
+===========================================
+1era Arquitectura:
+20200616-000204
+
+Dataset: 1100 imagenes por clase (data augmentation) = 58300 imagenes
+
+Train 80% Test 20%
+Entrada: Imagen de 100x100x3 RGB
+Salida: Vector onehot de tam 53
+
+- 5 capas conv 3x3 stride 1x1
+	32, 64, 128, 256, 512
+
+- 5 capas max-pooling 2x2 stride 2x2
+	50x50, 25x25, 13x13, 7x7, 4x4
+
+- 2 capas ocultas directamente conectadas
+	8192, 1024, 128
+
+- 1 capa salida 53 neuronales
+
+Optimizador Adam learning rate = 0.001
+Perdida: Categorical Cross Entropy
+Precision: Categorical Accuracy
+Epocas: 35
+Precision: 1.8%
+
+===========================================
+2da Arquitectura:
+20200616-010835
+
+Dataset: 1100 imagenes por clase (data augmentation) = 58300 imagenes
+
+Train 80% Test 20%
+Entrada: Imagen de 100x100x3 RGB
+Salida: Vector onehot de tam 53
+
+- 7 capas conv 3x3 stride 1x1
+	32, 64, 128, 256, 512, 1024, 2048
+
+- 7 capas max-pooling 2x2 stride 2x2
+	50x50, 25x25, 13x13, 7x7, 4x4, 2x2, 1x1
+
+- 2 capas ocultas directamente conectadas
+	2048, 1024, 128
+
+- 1 capa salida 53 neuronales
+
+Optimizador Adam learning rate = 0.0001
+Perdida: Categorical Cross Entropy
+Precision: Categorical Accuracy
+Epocas: 65 -----> Precision 98% - 89%
+Epocas: 80 -----> Precision 99% - 94%
